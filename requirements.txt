@@ -1,0 +1,4 @@
+pypdf
+customtkinter
+Pillow
+python-docx
